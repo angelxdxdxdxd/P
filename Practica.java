@@ -17,7 +17,7 @@ public class Practica {
             
             int AreaCuadrado = base*altura;
             
-           var nombre = "Karla Guadalupe Palma Jiménez";
+           var nombre = "Ángel Manuel Colín Rodríguez";
            
             System.out.println("El area del cuadrado en etero es " + AreaCuadrado + " y mi nombre es " + nombre);
     }
