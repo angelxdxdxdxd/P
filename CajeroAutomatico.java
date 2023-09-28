@@ -1,18 +1,16 @@
+
+import java.util.Scanner;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cajeroautomatico;
-  import java.util.Scanner;
+
 /**
  *
  * @author labcca
  */
 public class CajeroAutomatico {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         double saldo = 5000.0; 
         Scanner scanner = new Scanner(System.in);
@@ -46,7 +44,14 @@ public class CajeroAutomatico {
                 break;
             default:
                 System.out.println("Opcion no valida. Por favor, seleccione una opcion valida.");
+                
+            /*
+             *Ángel Manuel colín Rodríguez
+             *Karla Guadalupe Palma Jimenez
+            */
+            
         }
     }
 }
     
+
