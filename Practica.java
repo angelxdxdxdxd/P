@@ -12,16 +12,14 @@ public class Practica {
     
     public static void main(String[] args) {
         
-            int b = 70;
-            int h = 70;
+            int base = 70;
+            int altura = 70;
             
-            int areaCuadrado = b*h;
+            int AreaCuadrado = base*altura;
             
-           var nombre = "Angel Manuel Colin Rodriguez";
+           var nombre = "Ángel Manuel Colín Rodríguez";
            
-            System.out.println("El area del cuadrado en etero es " + areaCuadrado + " y mi nombre es " + nombre);
-            
-            
+            System.out.println("El area del cuadrado en etero es " + AreaCuadrado + " y mi nombre es " + nombre);
     }
     
 }
